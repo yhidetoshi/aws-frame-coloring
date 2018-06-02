@@ -11,7 +11,7 @@ String.prototype.toRGBCode = (function () {
   var background = ""
   var stg = 'stg'
   var dev = 'dev'
-  var prd = 'prd
+  var prd = 'prd'
 
   // ブラウザからアカウントを取得
   var account = document.querySelector("#nav-usernameMenu .nav-elt-label").textContent;

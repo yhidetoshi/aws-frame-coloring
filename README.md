@@ -1,6 +1,7 @@
 # aws-frame-coloring
 - Google ChromeでAWSのマネジメントコンソールのヘッダーとフッダーをアカウント名で変更する
-- ex) stg/dev/prd
+  - AWSアカウント名に `stg` / `dev` / `prd` が含まれる場合に色を以下のように変わるようにしています。
+  - 他の名前で変更したい場合は、 `js/aws-frame-coloring.js` の値を変更してください
 
 ### 使い方
 - git clone https://github.com/yhidetoshi/aws-frame-coloring

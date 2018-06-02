@@ -3,7 +3,7 @@
 - ex) stg/dev/prd
 
 ### 使い方
-- git clone git@github.com
+- git clone https://github.com/yhidetoshi/aws-frame-coloring
 - Google ChromeのURLで `chrome://extensions` を開く
 - `デベロッパーモード` にチェック
 - `パッケージ化されていない拡張機能` を読み込む
